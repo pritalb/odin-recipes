@@ -1,0 +1,19 @@
+body {
+    background-color: coral;
+    color: cornsilk;
+}
+
+h1 {
+    text-align: center;
+}
+
+li>a {
+    color: honeydew;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
